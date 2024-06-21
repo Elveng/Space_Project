@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10(labwork2)Space_project", "Lab10(labwork2)Space_project.vcxproj", "{666B6695-B0E6-484A-98DD-341D2B40B627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Debug|x64.ActiveCfg = Debug|x64
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Debug|x64.Build.0 = Debug|x64
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Debug|x86.ActiveCfg = Debug|Win32
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Debug|x86.Build.0 = Debug|Win32
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Release|x64.ActiveCfg = Release|x64
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Release|x64.Build.0 = Release|x64
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Release|x86.ActiveCfg = Release|Win32
+		{666B6695-B0E6-484A-98DD-341D2B40B627}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7A6BCE6-AF4A-4324-A18F-F7A436D97550}
+	EndGlobalSection
+EndGlobal
